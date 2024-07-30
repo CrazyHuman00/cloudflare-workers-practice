@@ -1,0 +1,5 @@
+line-bot-test/node_modules/
+line-bot-test/worker/
+line-bot-test/.cargo-ok
+line-bot-test/package-lock.json
+line-bot-test/wrangler.toml
